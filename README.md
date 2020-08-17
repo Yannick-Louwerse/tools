@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data analysis
 - Document here the project: tools
 - Description: Project Description
@@ -61,10 +62,14 @@ Functionnal test with a script:
 ```bash
   $ cd /tmp
   $ tools-run
-``` 
+```
 
 # Continus integration
-## Github 
+## Github
 Every push of `master` branch will execute `.github/workflows/pythonpackages.yml` docker jobs.
 ## Gitlab
 Every push of `master` branch will execute `.gitlab-ci.yml` docker jobs.
+=======
+# tools
+Useful functions, tools, etc
+>>>>>>> f36915c3cc861b962304f5a9d7635b2eef4ae11a
